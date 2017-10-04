@@ -30,3 +30,5 @@ C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Deb
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Debug\Assignment3Mvvm.csproj.CoreCompileInputs.cache
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Debug\Assignment3Mvvm.exe
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Debug\Assignment3Mvvm.pdb
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Debug\Views\UpdateView.g.cs
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Debug\Views\UpdateView.baml

@@ -75,10 +75,15 @@
     <Compile Include="Model\MembershipList.cs" />
     <Compile Include="Model\Validator.cs" />
     <Compile Include="ViewModel\AddViewModel.cs" />
+    <Compile Include="ViewModel\IClosable.cs" />
     <Compile Include="ViewModel\MainViewModel.cs" />
+    <Compile Include="ViewModel\UpdateViewModel.cs" />
     <Compile Include="ViewModel\ViewModelLocator.cs" />
     <Compile Include="Views\AddMemberView.xaml.cs">
       <DependentUpon>AddMemberView.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\UpdateView.xaml.cs">
+      <DependentUpon>UpdateView.xaml</DependentUpon>
     </Compile>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
@@ -93,6 +98,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="Views\AddMemberView.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\UpdateView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

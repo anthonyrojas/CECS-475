@@ -16,6 +16,7 @@ C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\bin\Rel
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\bin\Release\Microsoft.Practices.ServiceLocation.xml
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\MainWindow.g.cs
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Views\AddMemberView.g.cs
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Views\UpdateView.g.cs
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\App.g.cs
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\GeneratedInternalTypeHelper.g.cs
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Assignment3Mvvm_MarkupCompile.cache
@@ -23,6 +24,7 @@ C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Rel
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\App.baml
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\MainWindow.baml
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Views\AddMemberView.baml
+C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Views\UpdateView.baml
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Assignment3Mvvm.g.resources
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Assignment3Mvvm.Properties.Resources.resources
 C:\Users\Anthony Rojas\Documents\CECS475\Assignment3Mvvm\Assignment3Mvvm\obj\Release\Assignment3Mvvm.csproj.GenerateResource.Cache

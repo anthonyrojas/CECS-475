@@ -27,9 +27,24 @@ namespace Assignment3Mvvm.Model
             {
                 return propertyCount;
             }
+            
             set
             {
                 Set<int>(() => this.PropertyCount, ref propertyCount, value);
+            }
+        }
+
+        public Member this[int i]
+        {
+            get
+            {
+                return members[i];
+            }
+            set
+            {
+                var m = members.ElementAt(i);
+                Set(()=>Members[i], ref m, value);
+                members[i] = m;
             }
         }
 
